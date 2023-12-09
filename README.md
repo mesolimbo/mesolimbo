@@ -1,5 +1,3 @@
-## Al Barrera, Sr. Engineering manager
+## Al Barrera, Sr. Software Engineer
 
-Just your typical manager with too few hours in the day. Hopefully I can get back to coding after I retire!
-
-In the meantime I'm learning to leverage AI to help with my pet projects.
+Just your typical engineer with too few hours in the day ... so I'm learning to leverage AI to help with my pet projects.
