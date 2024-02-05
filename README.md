@@ -1,3 +1,3 @@
-## Al Barrera, Sr. Software Engineer
+## Al Barrera, Sr. Software Engineering Manager
 
-Just your typical engineer with too few hours in the day ... so I'm learning to leverage AI to help with my pet projects.
+I'm also just a nerd, standing in front of a bot, asking it to do my work for me.
