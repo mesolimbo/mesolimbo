@@ -1,5 +1,5 @@
 ## Al Barrera, Sr. Software Engineering Manager
 
-I'm just a nerd, standing in front of a bot, asking it to do my work for me.
+With over 15 years of experience as a software engineer and manager, Al excels in steering technical direction, crafting project blueprints, and orchestrating complex project cycles, culminating in the deployment of cutting-edge SaaS and cybersecurity applications and platforms.
 
-![A boy and his bot](boy_and_bot.png)
+Al coordinate people, methods, and technology to ensure prompt application rollouts, operational efficiency, and strengthened security, backed by solid engineering practices.
