@@ -1,4 +1,4 @@
-## Al Barrera, Sr. Software Engineering Manager
+## Al Barrera, Senior Software Engineer
 
 With over 15 years of experience as a software engineer and manager, Al excels in steering technical direction, crafting project blueprints, and orchestrating complex project cycles, culminating in the deployment of cutting-edge SaaS and cybersecurity applications and platforms.
 
